@@ -1,0 +1,76 @@
+C:\Users\imasu\source\repos\Problema 1.1 - 114184\Problema 1.1 - 114184\bin\Debug\Problema 1.1 - 114184.exe.config
+C:\Users\imasu\source\repos\Problema 1.1 - 114184\Problema 1.1 - 114184\bin\Debug\Problema 1.1 - 114184.exe
+C:\Users\imasu\source\repos\Problema 1.1 - 114184\Problema 1.1 - 114184\bin\Debug\Problema 1.1 - 114184.pdb
+C:\Users\imasu\source\repos\Problema 1.1 - 114184\Problema 1.1 - 114184\obj\Debug\Problema 1.1 - 114184.csproj.AssemblyReference.cache
+C:\Users\imasu\source\repos\Problema 1.1 - 114184\Problema 1.1 - 114184\obj\Debug\Problema 1.1 - 114184.csproj.SuggestedBindingRedirects.cache
+C:\Users\imasu\source\repos\Problema 1.1 - 114184\Problema 1.1 - 114184\obj\Debug\Problema_1._1___114184.Properties.Resources.resources
+C:\Users\imasu\source\repos\Problema 1.1 - 114184\Problema 1.1 - 114184\obj\Debug\Problema 1.1 - 114184.csproj.GenerateResource.cache
+C:\Users\imasu\source\repos\Problema 1.1 - 114184\Problema 1.1 - 114184\obj\Debug\Problema 1.1 - 114184.csproj.CoreCompileInputs.cache
+C:\Users\imasu\source\repos\Problema 1.1 - 114184\Problema 1.1 - 114184\obj\Debug\Problema 1.1 - 114184.exe
+C:\Users\imasu\source\repos\Problema 1.1 - 114184\Problema 1.1 - 114184\obj\Debug\Problema 1.1 - 114184.pdb
+C:\Users\imasu\source\repos\Problema 1.1 - 114184\Problema 1.1 - 114184\obj\Debug\Problema_1._1___114184.Presentacion.AgregarCarrera.resources
+C:\Users\imasu\source\repos\Problema 1.1 - 114184\Problema 1.1 - 114184\obj\Debug\Problema_1._1___114184.Presentacion.EliminarCarrera.resources
+C:\Users\imasu\source\repos\Problema 1.1 - 114184\Problema 1.1 - 114184\obj\Debug\Problema_1._1___114184.Presentacion.Principal.resources
+C:\Users\imasu\source\repos\Problema 1.1 - 114184\Problema 1.1 - 114184\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\imasu\source\repos\Problema 1.1 - 114184\Problema 1.1 - 114184\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\imasu\source\repos\Problema 1.1 - 114184\Problema 1.1 - 114184\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\imasu\source\repos\Problema 1.1 - 114184\Problema 1.1 - 114184\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\imasu\source\repos\Problema 1.1 - 114184\Problema 1.1 - 114184\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\imasu\source\repos\Problema 1.1 - 114184\Problema 1.1 - 114184\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\imasu\source\repos\Problema 1.1 - 114184\Problema 1.1 - 114184\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\imasu\source\repos\Problema 1.1 - 114184\Problema 1.1 - 114184\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\imasu\source\repos\Problema 1.1 - 114184\Problema 1.1 - 114184\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\imasu\source\repos\Problema 1.1 - 114184\Problema 1.1 - 114184\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\imasu\source\repos\Problema 1.1 - 114184\Problema 1.1 - 114184\bin\Debug\EnvDTE.dll
+C:\Users\imasu\source\repos\Problema 1.1 - 114184\Problema 1.1 - 114184\bin\Debug\stdole.dll
+C:\Users\imasu\source\repos\Problema 1.1 - 114184\Problema 1.1 - 114184\bin\Debug\Microsoft.MSXML.dll
+C:\Users\imasu\source\repos\Problema 1.1 - 114184\Problema 1.1 - 114184\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\imasu\source\repos\Problema 1.1 - 114184\Problema 1.1 - 114184\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\imasu\source\repos\Problema 1.1 - 114184\Problema 1.1 - 114184\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\imasu\source\repos\Problema 1.1 - 114184\Problema 1.1 - 114184\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\imasu\source\repos\Problema 1.1 - 114184\Problema 1.1 - 114184\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\imasu\source\repos\Problema 1.1 - 114184\Problema 1.1 - 114184\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\imasu\source\repos\Problema 1.1 - 114184\Problema 1.1 - 114184\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\imasu\source\repos\Problema 1.1 - 114184\Problema 1.1 - 114184\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\imasu\source\repos\Problema 1.1 - 114184\Problema 1.1 - 114184\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\imasu\source\repos\Problema 1.1 - 114184\Problema 1.1 - 114184\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\imasu\source\repos\Problema 1.1 - 114184\Problema 1.1 - 114184\bin\Debug\zh-HANS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\imasu\source\repos\Problema 1.1 - 114184\Problema 1.1 - 114184\bin\Debug\zh-HANT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\imasu\source\repos\Problema 1.1 - 114184\Problema 1.1 - 114184\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\imasu\source\repos\Problema 1.1 - 114184\Problema 1.1 - 114184\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\imasu\source\repos\Problema 1.1 - 114184\Problema 1.1 - 114184\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\imasu\source\repos\Problema 1.1 - 114184\Problema 1.1 - 114184\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\imasu\source\repos\Problema 1.1 - 114184\Problema 1.1 - 114184\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\imasu\source\repos\Problema 1.1 - 114184\Problema 1.1 - 114184\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\imasu\source\repos\Problema 1.1 - 114184\Problema 1.1 - 114184\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\imasu\source\repos\Problema 1.1 - 114184\Problema 1.1 - 114184\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\imasu\source\repos\Problema 1.1 - 114184\Problema 1.1 - 114184\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\imasu\source\repos\Problema 1.1 - 114184\Problema 1.1 - 114184\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\imasu\source\repos\Problema 1.1 - 114184\Problema 1.1 - 114184\bin\Debug\zh-HANS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\imasu\source\repos\Problema 1.1 - 114184\Problema 1.1 - 114184\bin\Debug\zh-HANT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\imasu\source\repos\Problema 1.1 - 114184\Problema 1.1 - 114184\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\imasu\source\repos\Problema 1.1 - 114184\Problema 1.1 - 114184\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\imasu\source\repos\Problema 1.1 - 114184\Problema 1.1 - 114184\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\imasu\source\repos\Problema 1.1 - 114184\Problema 1.1 - 114184\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\imasu\source\repos\Problema 1.1 - 114184\Problema 1.1 - 114184\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\imasu\source\repos\Problema 1.1 - 114184\Problema 1.1 - 114184\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\imasu\source\repos\Problema 1.1 - 114184\Problema 1.1 - 114184\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\imasu\source\repos\Problema 1.1 - 114184\Problema 1.1 - 114184\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\imasu\source\repos\Problema 1.1 - 114184\Problema 1.1 - 114184\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\imasu\source\repos\Problema 1.1 - 114184\Problema 1.1 - 114184\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\imasu\source\repos\Problema 1.1 - 114184\Problema 1.1 - 114184\bin\Debug\zh-HANS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\imasu\source\repos\Problema 1.1 - 114184\Problema 1.1 - 114184\bin\Debug\zh-HANT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\imasu\source\repos\Problema 1.1 - 114184\Problema 1.1 - 114184\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\imasu\source\repos\Problema 1.1 - 114184\Problema 1.1 - 114184\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\imasu\source\repos\Problema 1.1 - 114184\Problema 1.1 - 114184\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\imasu\source\repos\Problema 1.1 - 114184\Problema 1.1 - 114184\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\imasu\source\repos\Problema 1.1 - 114184\Problema 1.1 - 114184\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\imasu\source\repos\Problema 1.1 - 114184\Problema 1.1 - 114184\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\imasu\source\repos\Problema 1.1 - 114184\Problema 1.1 - 114184\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\imasu\source\repos\Problema 1.1 - 114184\Problema 1.1 - 114184\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\imasu\source\repos\Problema 1.1 - 114184\Problema 1.1 - 114184\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\imasu\source\repos\Problema 1.1 - 114184\Problema 1.1 - 114184\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\imasu\source\repos\Problema 1.1 - 114184\Problema 1.1 - 114184\bin\Debug\zh-HANS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\imasu\source\repos\Problema 1.1 - 114184\Problema 1.1 - 114184\bin\Debug\zh-HANT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\imasu\source\repos\Problema 1.1 - 114184\Problema 1.1 - 114184\obj\Debug\Problema_1._1___114184.Formularios.ReporteCantidadMaterias.resources
+C:\Users\imasu\source\repos\Problema 1.1 - 114184\Problema 1.1 - 114184\obj\Debug\Problema 1.1 - 114184.csproj.CopyComplete
